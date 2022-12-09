@@ -1,0 +1,13 @@
+{
+    "files.associations": {
+        "TM.C": "cpp",
+        "MAIN.C": "cpp",
+        "ANALYZE.H": "cpp",
+        "SCAN.C": "cpp",
+        "UTIL.C": "cpp",
+        "CODE.C": "cpp",
+        "PARSE.C": "cpp",
+        "ANALYZE.C": "cpp",
+        "GLOBALS.H": "cpp"
+    }
+}

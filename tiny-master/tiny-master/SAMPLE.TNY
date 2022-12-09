@@ -1,0 +1,19 @@
+{ Sample program
+  in TINY language -
+  computes factorial
+}
+read x; { input an integer base }
+read y; {}
+answer := 0;
+xbase := x;
+if y = 0 then 
+  answer := 1;
+end;
+if y > 0 then
+  repeat
+    answer := xbase * x;
+    xbase := answer;
+    y := y - 1
+  until y = 1;
+end;
+write answer  { output potencia of x }
